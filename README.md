@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
-- 📫 How to reach me **damiankedra2@gmail.com**
+
 
 
 <h3 align="left">🧠 Skills:</h3>
