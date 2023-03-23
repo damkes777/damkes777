@@ -9,7 +9,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damkes777&show_icons=true&locale=en&layout=compact" alt="damkes777" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damkes777&show_icons=true&locale=en" alt="damkes777" /></p>
-<h3 align="left">💾 Setup:</h3>
+<h3 align="left">Setup:</h3>
   <a>💻 MacBook Air M1</a></br>
   <a>🖥️ 2x Samsung Odyssey G3 24” 144Hz </a></br> 
   <a>🖱️ Logitech MX Master 2s </a></br>
